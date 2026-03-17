@@ -1,0 +1,345 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Failed login attempt: username=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\apps.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Failed login attempt: username=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Failed login attempt: username=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: username=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: username=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3153
+"POST /logout/ HTTP/1.1" 200 2571
+"GET /login/ HTTP/1.1" 200 3817
+"POST /login/ HTTP/1.1" 200 4006
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 137, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 141, in post
+    auth_logout(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 253, in logout
+    user_logged_out.send(sender=user.__class__, request=request, user=user)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py", line 18, in log_logout
+    logger.info("User logged out: user=%s", user.username)
+AttributeError: 'NoneType' object has no attribute 'username'
+Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 137, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 141, in post
+    auth_logout(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 253, in logout
+    user_logged_out.send(sender=user.__class__, request=request, user=user)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py", line 18, in log_logout
+    logger.info("User logged out: user=%s", user.username)
+AttributeError: 'NoneType' object has no attribute 'username'
+"POST /logout/ HTTP/1.1" 500 119994
+"POST /logout/ HTTP/1.1" 500 119994
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 137, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 141, in post
+    auth_logout(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 253, in logout
+    user_logged_out.send(sender=user.__class__, request=request, user=user)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py", line 19, in log_logout
+    logger.info("User logged out: user=%s", user.username)
+AttributeError: 'NoneType' object has no attribute 'username'
+Internal Server Error: /logout/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 137, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\views.py", line 141, in post
+    auth_logout(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\__init__.py", line 253, in logout
+    user_logged_out.send(sender=user.__class__, request=request, user=user)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\dispatch\dispatcher.py", line 189, in send
+    response = receiver(signal=self, sender=sender, **named)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py", line 19, in log_logout
+    logger.info("User logged out: user=%s", user.username)
+AttributeError: 'NoneType' object has no attribute 'username'
+"POST /logout/ HTTP/1.1" 500 120206
+"POST /logout/ HTTP/1.1" 500 120206
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3382
+"GET /favicon.ico HTTP/1.1" 404 3382
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3153
+"GET / HTTP/1.1" 200 3153
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
