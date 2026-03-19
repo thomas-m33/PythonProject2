@@ -343,3 +343,325 @@ Not Found: /.well-known/appspecific/com.chrome.devtools.json
 "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3493
 C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
 C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 200 1294
+"GET /static/blog/main.css HTTP/1.1" 200 1294
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3382
+"GET /favicon.ico HTTP/1.1" 404 3382
+"GET /register/ HTTP/1.1" 200 5076
+"GET /register/ HTTP/1.1" 200 5076
+"POST /register/ HTTP/1.1" 200 5521
+"POST /register/ HTTP/1.1" 200 5521
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"POST /register/ HTTP/1.1" 200 5521
+"POST /register/ HTTP/1.1" 200 5521
+"GET /static/blog/main.css HTTP/1.1" 200 1219
+"GET /static/blog/main.css HTTP/1.1" 200 1219
+"GET /register/ HTTP/1.1" 200 5076
+"GET /register/ HTTP/1.1" 200 5076
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"POST /register/ HTTP/1.1" 200 5313
+"POST /register/ HTTP/1.1" 200 5313
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"POST /register/ HTTP/1.1" 200 5504
+"POST /register/ HTTP/1.1" 200 5504
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /register/ HTTP/1.1" 200 5076
+"GET /register/ HTTP/1.1" 200 5076
+"POST /register/ HTTP/1.1" 200 5424
+"POST /register/ HTTP/1.1" 200 5424
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /register/ HTTP/1.1" 200 5076
+"GET /register/ HTTP/1.1" 200 5076
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /register/ HTTP/1.1" 200 5188
+"GET /register/ HTTP/1.1" 200 5188
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 3974
+"GET /login/ HTTP/1.1" 200 3974
+"GET /register/ HTTP/1.1" 200 5188
+"GET /register/ HTTP/1.1" 200 5188
+"POST /register/ HTTP/1.1" 200 5547
+"POST /register/ HTTP/1.1" 200 5547
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /register/ HTTP/1.1" 200 5547
+"POST /register/ HTTP/1.1" 200 5547
+"POST /register/ HTTP/1.1" 200 5647
+"POST /register/ HTTP/1.1" 200 5647
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /register/ HTTP/1.1" 200 5188
+"GET /register/ HTTP/1.1" 200 5188
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 16, in cached_import
+    return getattr(module, class_name)
+AttributeError: module 'users.validators' has no attribute 'ContainsSymbolValidator'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 29, in get_password_validators
+    klass = import_string(validator["NAME"])
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 32, in import_string
+    raise ImportError(
+ImportError: Module "users.validators" does not define a "ContainsSymbolValidator" attribute/class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 17, in register
+    return render(request, 'users/register.html', {'form': form})
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1077, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 750, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 61, in as_crispy_form
+    return template.render(c)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\crispy_forms\templatetags\crispy_forms_utils.py", line 21, in render
+    return remove_spaces(self.nodelist.render(context).strip())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 198, in render
+    values = list(values)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\forms.py", line 178, in __iter__
+    yield self[name]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\forms.py", line 194, in __getitem__
+    self._bound_fields_cache[name] = field.get_bound_field(self, name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\fields.py", line 261, in get_bound_field
+    return bound_field_class(form, self, field_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\boundfield.py", line 27, in __init__
+    self.help_text = field.help_text or ""
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\functional.py", line 187, in __wrapper__
+    result = func(*self._args, **self._kw)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 89, in _password_validators_help_text_html
+    help_texts = password_validators_help_texts(password_validators)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 78, in password_validators_help_texts
+    password_validators = get_default_password_validators()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 22, in get_default_password_validators
+    return get_password_validators(settings.AUTH_PASSWORD_VALIDATORS)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 35, in get_password_validators
+    raise ImproperlyConfigured(msg % validator["NAME"])
+django.core.exceptions.ImproperlyConfigured: The module in NAME could not be imported: users.validators.ContainsSymbolValidator. Check your AUTH_PASSWORD_VALIDATORS setting.
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 30, in import_string
+    return cached_import(module_path, class_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 16, in cached_import
+    return getattr(module, class_name)
+AttributeError: module 'users.validators' has no attribute 'ContainsSymbolValidator'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 29, in get_password_validators
+    klass = import_string(validator["NAME"])
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\module_loading.py", line 32, in import_string
+    raise ImportError(
+ImportError: Module "users.validators" does not define a "ContainsSymbolValidator" attribute/class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 17, in register
+    return render(request, 'users/register.html', {'form': form})
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1077, in render
+    output = self.filter_expression.resolve(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 750, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\crispy_forms\templatetags\crispy_forms_filters.py", line 61, in as_crispy_form
+    return template.render(c)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\crispy_forms\templatetags\crispy_forms_utils.py", line 21, in render
+    return remove_spaces(self.nodelist.render(context).strip())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 198, in render
+    values = list(values)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\forms.py", line 178, in __iter__
+    yield self[name]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\forms.py", line 194, in __getitem__
+    self._bound_fields_cache[name] = field.get_bound_field(self, name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\fields.py", line 261, in get_bound_field
+    return bound_field_class(form, self, field_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\forms\boundfield.py", line 27, in __init__
+    self.help_text = field.help_text or ""
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\functional.py", line 187, in __wrapper__
+    result = func(*self._args, **self._kw)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 89, in _password_validators_help_text_html
+    help_texts = password_validators_help_texts(password_validators)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 78, in password_validators_help_texts
+    password_validators = get_default_password_validators()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 22, in get_default_password_validators
+    return get_password_validators(settings.AUTH_PASSWORD_VALIDATORS)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\contrib\auth\password_validation.py", line 35, in get_password_validators
+    raise ImproperlyConfigured(msg % validator["NAME"])
+django.core.exceptions.ImproperlyConfigured: The module in NAME could not be imported: users.validators.ContainsSymbolValidator. Check your AUTH_PASSWORD_VALIDATORS setting.
+"GET /register/ HTTP/1.1" 500 263378
+"GET /register/ HTTP/1.1" 500 263378
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /register/ HTTP/1.1" 200 5196
+"GET /register/ HTTP/1.1" 200 5196
+"POST /register/ HTTP/1.1" 200 5535
+"POST /register/ HTTP/1.1" 200 5535
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /register/ HTTP/1.1" 200 5641
+"POST /register/ HTTP/1.1" 200 5641
+"POST /register/ HTTP/1.1" 200 5641
+"POST /register/ HTTP/1.1" 200 5641
