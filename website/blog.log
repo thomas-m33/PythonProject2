@@ -665,3 +665,985 @@ Watching for file changes with StatReloader
 "POST /register/ HTTP/1.1" 200 5641
 "POST /register/ HTTP/1.1" 200 5641
 "POST /register/ HTTP/1.1" 200 5641
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2843
+"GET / HTTP/1.1" 200 2843
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3655
+"GET /favicon.ico HTTP/1.1" 404 3655
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+KeyError: "'post-detail'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 862, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 10: ''post-detail'', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 511, in parse
+    compile_func = self.tags[command]
+KeyError: "'post-detail'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 79, in get_template
+    return Template(self.engine.get_template(template_name), self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\engine.py", line 177, in get_template
+    template, origin = self.find_template(template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\engine.py", line 159, in find_template
+    template = loader.get_template(name, skip=skip)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 155, in __init__
+    self.nodelist = self.compile_nodelist()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 197, in compile_nodelist
+    nodelist = parser.parse()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 299, in do_extends
+    nodelist = parser.parse()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 234, in do_block
+    nodelist = parser.parse(("endblock",))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 519, in parse
+    raise self.error(token, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 517, in parse
+    compiled_result = compile_func(self, token)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 862, in do_for
+    nodelist_loop = parser.parse(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 513, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 568, in invalid_block_tag
+    raise self.error(
+django.template.exceptions.TemplateSyntaxError: Invalid block tag on line 10: ''post-detail'', expected 'empty' or 'endfor'. Did you forget to register or load this tag?
+"GET / HTTP/1.1" 500 186810
+"GET / HTTP/1.1" 500 186810
+"GET / HTTP/1.1" 200 2850
+"GET / HTTP/1.1" 200 2850
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blog/post_list.html
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blog/post_list.html
+"GET /post/1/ HTTP/1.1" 500 82382
+"GET /post/1/ HTTP/1.1" 500 82382
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blog/post_list.html
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: blog/post_list.html
+"GET /post/1/ HTTP/1.1" 500 82382
+"GET /post/1/ HTTP/1.1" 500 82382
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/1/ HTTP/1.1" 200 2704
+"GET /post/1/ HTTP/1.1" 200 2704
+"GET /post/1/ HTTP/1.1" 200 2704
+"GET /post/1/ HTTP/1.1" 200 2704
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2850
+"GET / HTTP/1.1" 200 2850
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Failed login attempt: user=Thomas
+"POST /login/ HTTP/1.1" 200 4007
+"POST /login/ HTTP/1.1" 200 4007
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 2730
+"GET /profile/ HTTP/1.1" 200 2730
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 8842
+"GET /admin/ HTTP/1.1" 200 8842
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /admin/auth/user/ HTTP/1.1" 200 13985
+"GET /admin/auth/user/ HTTP/1.1" 200 13985
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/users/profile/add/ HTTP/1.1" 200 11636
+"GET /admin/users/profile/add/ HTTP/1.1" 200 11636
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 2730
+"GET /profile/ HTTP/1.1" 200 2730
+"GET /admin/ HTTP/1.1" 200 8842
+"GET /admin/ HTTP/1.1" 200 8842
+"GET /admin/users/profile/ HTTP/1.1" 200 9123
+"GET /admin/users/profile/ HTTP/1.1" 200 9123
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/add/ HTTP/1.1" 200 11636
+"GET /admin/users/profile/add/ HTTP/1.1" 200 11636
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/users/profile/add/ HTTP/1.1" 200 11858
+"POST /admin/users/profile/add/ HTTP/1.1" 200 11858
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/users/profile/add/ HTTP/1.1" 302 0
+"POST /admin/users/profile/add/ HTTP/1.1" 302 0
+"GET /admin/users/profile/ HTTP/1.1" 200 10623
+"GET /admin/users/profile/ HTTP/1.1" 200 10623
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2850
+"GET / HTTP/1.1" 200 2850
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /login/ HTTP/1.1" 200 3817
+"GET /login/ HTTP/1.1" 200 3817
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 408597
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 408597
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /profile/ HTTP/1.1" 200 3066
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /profile/ HTTP/1.1" 200 3066
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/profile_pics/default.jpg HTTP/1.1" 200 20475
+"GET /media/profile_pics/default.jpg HTTP/1.1" 200 20475
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /profile/ HTTP/1.1" 200 3066
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\signals.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /profile/ HTTP/1.1" 200 3066
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2571
+"POST /logout/ HTTP/1.1" 200 2571
+"GET /register/ HTTP/1.1" 200 5196
+"GET /register/ HTTP/1.1" 200 5196
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 3974
+"GET /login/ HTTP/1.1" 200 3974
+Successful login: user=account2
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3160
+"GET / HTTP/1.1" 200 3160
+"GET /profile/ HTTP/1.1" 200 3036
+"GET /profile/ HTTP/1.1" 200 3036
+Not Found: /media/default.jpg
+Not Found: /media/default.jpg
+"GET /media/default.jpg HTTP/1.1" 404 4075
+"GET /media/default.jpg HTTP/1.1" 404 4075
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /profile/ HTTP/1.1" 200 3036
+"GET /profile/ HTTP/1.1" 200 3036
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /media/default.jpg
+Not Found: /media/default.jpg
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+- Broken pipe from ('127.0.0.1', 63594)
+- Broken pipe from ('127.0.0.1', 63594)
+"GET /media/default.jpg HTTP/1.1" 404 4075
+"GET /media/default.jpg HTTP/1.1" 404 4075
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+"GET /static/admin/css/login.css HTTP/1.1" 200 951
+Successful login: user=Thomas
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 9195
+"GET /admin/ HTTP/1.1" 200 9195
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12003
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12003
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"POST /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"GET /admin/users/profile/ HTTP/1.1" 200 10909
+"GET /admin/users/profile/ HTTP/1.1" 200 10909
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /profile/ HTTP/1.1" 200 3016
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2521
+"POST /logout/ HTTP/1.1" 200 2521
+"GET /login/ HTTP/1.1" 200 3767
+"GET /login/ HTTP/1.1" 200 3767
+Successful login: user=account2
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3009
+"GET /profile/ HTTP/1.1" 200 3009
+"GET /media/profile_pics/SoN_VL_Background.png HTTP/1.1" 200 100376
+"GET /media/profile_pics/SoN_VL_Background.png HTTP/1.1" 200 100376
+"GET /login/ HTTP/1.1" 200 4077
+"GET /login/ HTTP/1.1" 200 4077
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+Successful login: user=Thomas
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 9555
+"GET /admin/ HTTP/1.1" 200 9555
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/5/change/?_to_field=id&_popup=1 HTTP/1.1" 200 17942
+"GET /admin/auth/user/5/change/?_to_field=id&_popup=1 HTTP/1.1" 200 17942
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15845
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /media/profile_pics/SoN_VL_Background.png HTTP/1.1" 304 0
+"GET /media/profile_pics/SoN_VL_Background.png HTTP/1.1" 304 0
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12049
+"POST /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"POST /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"GET /admin/users/profile/ HTTP/1.1" 200 10909
+"GET /admin/users/profile/ HTTP/1.1" 200 10909
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/ HTTP/1.1" 200 9915
+"GET /admin/ HTTP/1.1" 200 9915
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 9915
+"GET /admin/ HTTP/1.1" 200 9915
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /profile/ HTTP/1.1" 200 3016
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2521
+"POST /logout/ HTTP/1.1" 200 2521
+"GET /login/ HTTP/1.1" 200 3767
+"GET /login/ HTTP/1.1" 200 3767
+Successful login: user=account2
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3007
+"GET /profile/ HTTP/1.1" 200 3007
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 200 20475
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 200 20475
+"GET /profile/ HTTP/1.1" 200 3007
+"GET /profile/ HTTP/1.1" 200 3007
+Not Found: /media/profile_pics/default_D434J33.jpg
+Not Found: /media/profile_pics/default_D434J33.jpg
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/profile_pics/default.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/default.jpg HTTP/1.1" 304 0
+"GET /profile/ HTTP/1.1" 200 3007
+"GET /profile/ HTTP/1.1" 200 3007
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /media/profile_pics/default_D434J33.jpg
+Not Found: /media/profile_pics/default_D434J33.jpg
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /profile/ HTTP/1.1" 200 3007
+"GET /profile/ HTTP/1.1" 200 3007
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /media/profile_pics/default_D434J33.jpg
+Not Found: /media/profile_pics/default_D434J33.jpg
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3690
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+Successful login: user=Thomas
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 9915
+"GET /admin/ HTTP/1.1" 200 9915
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+Not Found: /media/profile_pics/default_D434J33.jpg
+Not Found: /media/profile_pics/default_D434J33.jpg
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /media/profile_pics/default_D434J33.jpg HTTP/1.1" 404 4159
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+"GET /admin/users/profile/2/change/ HTTP/1.1" 200 12045
+"GET /admin/auth/user/ HTTP/1.1" 200 14450
+"GET /admin/auth/user/ HTTP/1.1" 200 14450
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/5/change/ HTTP/1.1" 200 23693
+"GET /admin/auth/user/5/change/ HTTP/1.1" 200 23693
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/5/delete/ HTTP/1.1" 200 9182
+"GET /admin/auth/user/5/delete/ HTTP/1.1" 200 9182
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+"POST /admin/auth/user/5/delete/ HTTP/1.1" 302 0
+"POST /admin/auth/user/5/delete/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 14140
+"GET /admin/auth/user/ HTTP/1.1" 200 14140
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/5/delete/ HTTP/1.1" 302 0
+"GET /admin/auth/user/5/delete/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10386
+"GET /admin/ HTTP/1.1" 200 10386
+"GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+"GET /static/admin/img/icon-alert.svg HTTP/1.1" 200 504
+"GET /admin/auth/user/5/change/ HTTP/1.1" 302 0
+"GET /admin/auth/user/5/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10386
+"GET /admin/ HTTP/1.1" 200 10386
+"GET /admin/auth/user/ HTTP/1.1" 200 13985
+"GET /admin/auth/user/ HTTP/1.1" 200 13985
+"GET /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"GET /admin/users/profile/2/change/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10389
+"GET /admin/ HTTP/1.1" 200 10389
+"GET /admin/users/profile/ HTTP/1.1" 200 10416
+"GET /admin/users/profile/ HTTP/1.1" 200 10416
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2521
+"POST /logout/ HTTP/1.1" 200 2521
+"GET /register/ HTTP/1.1" 200 5146
+"GET /register/ HTTP/1.1" 200 5146
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /login/ HTTP/1.1" 200 3924
+"GET /login/ HTTP/1.1" 200 3924
+Successful login: user=account2
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 2986
+"GET /profile/ HTTP/1.1" 200 2986
+Not Found: /media/default.jpg
+Not Found: /media/default.jpg
+"GET /media/default.jpg HTTP/1.1" 404 4075
+"GET /media/default.jpg HTTP/1.1" 404 4075
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /profile/ HTTP/1.1" 200 2986
+"GET /profile/ HTTP/1.1" 200 2986
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /media/default.jpg
+Not Found: /media/default.jpg
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/default.jpg HTTP/1.1" 404 4075
+"GET /media/default.jpg HTTP/1.1" 404 4075
+"GET /profile/ HTTP/1.1" 200 2986
+"GET /profile/ HTTP/1.1" 200 2986
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /media/default.jpg HTTP/1.1" 200 20475
+"GET /media/default.jpg HTTP/1.1" 200 20475
+"GET /profile/ HTTP/1.1" 200 2986
+"GET /profile/ HTTP/1.1" 200 2986
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
