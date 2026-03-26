@@ -1647,3 +1647,264 @@ Not Found: /.well-known/appspecific/com.chrome.devtools.json
 Not Found: /.well-known/appspecific/com.chrome.devtools.json
 "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
 "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3935
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2800
+"GET / HTTP/1.1" 200 2800
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3824
+"GET /favicon.ico HTTP/1.1" 404 3824
+"GET /login/ HTTP/1.1" 200 3767
+"GET /login/ HTTP/1.1" 200 3767
+Successful login: user=Thomas
+"POST /login/ HTTP/1.1" 302 0
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /profile/ HTTP/1.1" 200 3016
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 408597
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 408597
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /admin/ HTTP/1.1" 200 10219
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/base.css HTTP/1.1" 200 22120
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /admin/users/profile/ HTTP/1.1" 200 10698
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/core.js HTTP/1.1" 200 6208
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/users/profile/1/change/ HTTP/1.1" 200 12035
+"GET /admin/users/profile/1/change/ HTTP/1.1" 200 12035
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+"GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3110
+"GET / HTTP/1.1" 200 3110
+"GET /profile/ HTTP/1.1" 200 3466
+"GET /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+"POST /profile/ HTTP/1.1" 200 3466
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /profile/ HTTP/1.1" 200 5140
+"POST /profile/ HTTP/1.1" 200 5140
+"POST /profile/ HTTP/1.1" 200 5140
+"POST /profile/ HTTP/1.1" 200 5140
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 4916
+"GET /profile/ HTTP/1.1" 200 4916
+"GET /profile/ HTTP/1.1" 200 4787
+"GET /profile/ HTTP/1.1" 200 4787
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 4950
+"GET /profile/ HTTP/1.1" 200 4950
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
