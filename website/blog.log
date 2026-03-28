@@ -3140,3 +3140,1197 @@ C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py change
 C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 161837
+"GET / HTTP/1.1" 500 161837
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7040
+"GET /favicon.ico HTTP/1.1" 404 7040
+"GET / HTTP/1.1" 200 3804
+"GET / HTTP/1.1" 200 3804
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 1896
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: otp_static_staticdevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: otp_static_staticdevice
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: otp_static_staticdevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: otp_static_staticdevice
+"POST /account/login/ HTTP/1.1" 500 219475
+"POST /account/login/ HTTP/1.1" 500 219475
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3804
+"GET / HTTP/1.1" 200 3804
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 327, in render
+    return nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'logout' not found. 'logout' is not a valid view function or pattern name.
+"GET / HTTP/1.1" 500 163469
+"GET / HTTP/1.1" 500 163469
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 16, in register
+    return render(request, 'users/register.html', {'form': form})
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 16, in register
+    return render(request, 'users/register.html', {'form': form})
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 172, in render
+    return self._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 164, in _render
+    return self.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 1018, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\base.py", line 979, in render_annotated
+    return self.render(context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+"GET /register/ HTTP/1.1" 500 162036
+"GET /register/ HTTP/1.1" 500 162036
+"GET /register/ HTTP/1.1" 200 4938
+"GET /register/ HTTP/1.1" 200 4938
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 13, in register
+    return redirect('login')
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 51, in redirect
+    resolve_url(to, *args, **kwargs),
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 184, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+Internal Server Error: /register/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py", line 13, in register
+    return redirect('login')
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 51, in redirect
+    resolve_url(to, *args, **kwargs),
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\shortcuts.py", line 184, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login' not found. 'login' is not a valid view function or pattern name.
+"POST /register/ HTTP/1.1" 500 88542
+"POST /register/ HTTP/1.1" 500 88542
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /register/ HTTP/1.1" 200 5095
+"GET /register/ HTTP/1.1" 200 5095
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Failed login attempt: user=account4
+"POST /account/login/ HTTP/1.1" 200 3437
+"POST /account/login/ HTTP/1.1" 200 3437
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: django_otp_emaildevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: django_otp_emaildevice
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: django_otp_emaildevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: django_otp_emaildevice
+"POST /account/login/ HTTP/1.1" 500 221880
+"POST /account/login/ HTTP/1.1" 500 221880
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin HTTP/1.1" 301 0
+"GET /admin HTTP/1.1" 301 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /account/login/?next=/admin/ HTTP/1.1" 200 3223
+"GET /account/login/?next=/admin/ HTTP/1.1" 200 3223
+"GET / HTTP/1.1" 200 3804
+"GET / HTTP/1.1" 200 3804
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: django_otp_emaildevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: django_otp_emaildevice
+Internal Server Error: /account/login/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: django_otp_emaildevice
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\debug.py", line 143, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 426, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 250, in dispatch
+    response = super().dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 156, in post
+    response = super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\utils.py", line 162, in post
+    return super().post(*args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 303, in post
+    self.storage.set_step_files(self.steps.current, self.process_step_files(form))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 62, in current
+    return self._wizard.storage.current_step or self.first
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 67, in first
+    return self.all[0]
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 49, in all
+    return list(self._wizard.get_form_list())
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\formtools\wizard\views.py", line 227, in get_form_list
+    condition = condition(self)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 102, in has_token_step
+    default_device(self.get_user()) and
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\utils.py", line 14, in default_device
+    for device in devices_for_user(user, confirmed=confirmed):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\__init__.py", line 134, in devices_for_user
+    yield from device_set
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 386, in __iter__
+    self._fetch_all()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1954, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 93, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 360, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: django_otp_emaildevice
+"POST /account/login/ HTTP/1.1" 500 221880
+"POST /account/login/ HTTP/1.1" 500 221880
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3804
+"GET / HTTP/1.1" 200 3804
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3265
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3265
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3727
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3727
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4083
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4083
+"GET /account/two_factor/qrcode/ HTTP/1.1" 200 16404
+"GET /account/two_factor/qrcode/ HTTP/1.1" 200 16404
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3265
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3265
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3727
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3727
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3462
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3462
+"POST /account/two_factor/setup/ HTTP/1.1" 302 0
+"POST /account/two_factor/setup/ HTTP/1.1" 302 0
+"GET /account/two_factor/setup/complete/ HTTP/1.1" 200 2744
+"GET /account/two_factor/setup/complete/ HTTP/1.1" 200 2744
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3223
+"GET /account/login/ HTTP/1.1" 200 3223
+"POST /account/login/ HTTP/1.1" 200 3095
+"POST /account/login/ HTTP/1.1" 200 3095
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+"GET /profile/ HTTP/1.1" 200 4636
+"GET /profile/ HTTP/1.1" 200 4636
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET /profile/ HTTP/1.1" 200 4637
+"GET /profile/ HTTP/1.1" 200 4637
+"GET /profile/ HTTP/1.1" 200 4637
+"GET /profile/ HTTP/1.1" 200 4637
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /profile/ HTTP/1.1" 200 4695
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+"GET /account/two_factor/ HTTP/1.1" 200 3168
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /register/ HTTP/1.1" 200 4938
+"GET /register/ HTTP/1.1" 200 4938
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+Failed login attempt: user=account4
+"POST /account/login/ HTTP/1.1" 200 3850
+"POST /account/login/ HTTP/1.1" 200 3850
+"POST /account/login/ HTTP/1.1" 200 3334
+"POST /account/login/ HTTP/1.1" 200 3334
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+"GET /profile/ HTTP/1.1" 200 4695
+"GET /profile/ HTTP/1.1" 200 4695
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /account/login/ HTTP/1.1" 200 3658
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"POST /account/login/ HTTP/1.1" 200 3334
+"POST /account/login/ HTTP/1.1" 200 3334
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+"POST /account/login/ HTTP/1.1" 200 3348
+"POST /account/login/ HTTP/1.1" 200 3348
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /register/ HTTP/1.1" 200 4938
+"GET /register/ HTTP/1.1" 200 4938
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /register/ HTTP/1.1" 200 4938
+"GET /register/ HTTP/1.1" 200 4938
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /account/login/ HTTP/1.1" 200 3829
+"GET /account/login/ HTTP/1.1" 200 3829
+Successful login: user=Not_So_Secure_Sam
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+"GET /profile/ HTTP/1.1" 200 4714
+"GET /profile/ HTTP/1.1" 200 4714
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=Not_So_Secure_Sam
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+"POST /account/login/ HTTP/1.1" 200 3348
+"POST /account/login/ HTTP/1.1" 200 3348
+- Broken pipe from ('127.0.0.1', 52557)
+- Broken pipe from ('127.0.0.1', 52557)
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 302 0
+"GET /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3672
+"GET /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3672
+Failed login attempt: user=account4
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3864
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3864
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3348
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3348
+- Broken pipe from ('127.0.0.1', 55616)
+- Broken pipe from ('127.0.0.1', 55616)
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 302 0
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 302 0
+"GET /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3672
+"GET /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3672
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3348
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 200 3348
+Successful login: user=account4
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 302 0
+"POST /account/login/?next=/account/two_factor/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3246
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3246
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3708
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3708
+"GET / HTTP/1.1" 200 4169
+"GET / HTTP/1.1" 200 4169
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader

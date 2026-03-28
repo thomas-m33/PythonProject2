@@ -45,6 +45,14 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # 2FA
+    'django_otp',
+    'django_otp.plugins.otp_static',
+    'django_otp.plugins.otp_totp',
+    'django_otp.plugins.otp_email',
+    'two_factor',
+    'two_factor.plugins.email',
 ]
 
 MIDDLEWARE = [
@@ -55,6 +63,8 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django_otp.middleware.OTPMiddleware',
 ]
 
 ROOT_URLCONF = 'website.urls'
@@ -136,8 +146,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CRISPY_ALLOWED_TEMPLATE_PACKS = ["bootstrap5"]
 CRISPY_TEMPLATE_PACK = 'bootstrap5'
+LOGIN_URL = 'two_factor:login'
 LOGIN_REDIRECT_URL = 'blog-home'
-LOGIN_URL = 'login'
 
 SESSION_COOKIE_SECURE = True  # Ensures session cookies are only sent over HTTPS
 SESSION_COOKIE_HTTPONLY = True  # Prevents JavaScript access to session cookies
