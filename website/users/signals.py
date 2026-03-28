@@ -18,7 +18,10 @@ def log_failed_login(sender, credentials, request, **kwargs):
 
 @receiver(user_logged_out)
 def log_logout(sender, request, user, **kwargs):
-    logger.info("User logged out: user=%s", user.username)
+    if user:
+        # The if statement is to prevent logging when the user is already signed out but presses logout on
+        # a page where it hasn't updated yet. The logger runs into an error otherwise because user is None.
+        logger.info("User logged out: user=%s", user.username)
 
 @receiver(post_save, sender=User)
 def create_profile(sender, instance, created, **kwargs):
