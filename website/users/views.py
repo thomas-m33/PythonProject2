@@ -28,12 +28,30 @@ def profile(request):
                                    instance=request.user.profile)
         if u_form.is_valid() and p_form.is_valid():
             u_form.save()
-            p_form.save()
+
+            profile = p_form.save(commit=False)
+            profile.save()
+
+            # save trusted users manually
+            users = p_form.cleaned_data["trusted_users"]
+            profile.trusted_users.set(users)
+
             messages.success(request, f'Your account has been updated!')
             return redirect('profile')
     else:
         u_form = UserUpdateForm(instance=request.user)
-        p_form = ProfileUpdateForm(instance=request.user.profile)
+
+        initial = {
+            "trusted_users": "\n".join(
+                request.user.profile.trusted_users.values_list("username", flat=True)
+            )
+        }
+
+        p_form = ProfileUpdateForm(
+            instance=request.user.profile,
+            initial=initial
+        )
+
     context = {
         'u_form': u_form,
         'p_form': p_form

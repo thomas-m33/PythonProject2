@@ -18,6 +18,32 @@ class UserUpdateForm(forms.ModelForm):
         fields = ['username', 'email']
 
 class ProfileUpdateForm(forms.ModelForm):
+    trusted_users = forms.CharField(
+        required=False,
+        widget=forms.Textarea(attrs={"rows": 3}),
+        help_text="Enter one username per line (or separate with spaces)"
+    )
+
     class Meta:
         model = Profile
-        fields = ['image']
+        fields = ["posts_private", "trusted_users"]
+
+    def clean_trusted_users(self):
+        data = self.cleaned_data["trusted_users"]
+
+        if not data:
+            return []
+
+        usernames = data.split()
+
+        users = User.objects.filter(username__in=usernames)
+
+        found_usernames = set(users.values_list("username", flat=True))
+        invalid = [u for u in usernames if u not in found_usernames]
+
+        if invalid:
+            raise forms.ValidationError(
+                f"These users do not exist: {', '.join(invalid)}"
+            )
+
+        return users

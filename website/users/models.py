@@ -1,3 +1,4 @@
+from django.conf import settings
 from django.db import models
 from django.contrib.auth.models import User
 from PIL import Image
@@ -19,4 +20,13 @@ class Profile(models.Model):
             img.thumbnail(output_size)
             img.save(self.image.path)
 
+    posts_private = models.BooleanField(default=False)
+    trusted_users = models.ManyToManyField(
+        settings.AUTH_USER_MODEL,
+        blank=True,
+        related_name="trusted_by"
+    )
+
+    def __str__(self):
+        return self.user.username
 

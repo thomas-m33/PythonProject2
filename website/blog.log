@@ -5725,3 +5725,956 @@ Watching for file changes with StatReloader
 Watching for file changes with StatReloader
 C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
 C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /profile/ HTTP/1.1" 200 4825
+"GET /profile/ HTTP/1.1" 200 4825
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+"GET /profile/ HTTP/1.1" 200 5965
+"GET /profile/ HTTP/1.1" 200 5965
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7498
+"GET /profile/ HTTP/1.1" 200 4771
+"GET /profile/ HTTP/1.1" 200 4771
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 4214
+"GET /profile/ HTTP/1.1" 200 3322
+"GET /profile/ HTTP/1.1" 200 3322
+"GET /profile/ HTTP/1.1" 200 5004
+"GET /profile/ HTTP/1.1" 200 5004
+"GET /profile/ HTTP/1.1" 200 4972
+"GET /profile/ HTTP/1.1" 200 4972
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /profile/ HTTP/1.1" 200 5002
+"GET /profile/ HTTP/1.1" 200 5002
+"POST /profile/ HTTP/1.1" 200 5058
+"POST /profile/ HTTP/1.1" 200 5058
+"POST /profile/ HTTP/1.1" 200 5066
+"POST /profile/ HTTP/1.1" 200 5066
+"POST /profile/ HTTP/1.1" 200 5066
+"POST /profile/ HTTP/1.1" 200 5066
+"POST /profile/ HTTP/1.1" 200 5059
+"POST /profile/ HTTP/1.1" 200 5059
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /profile/ HTTP/1.1" 200 5002
+"GET /profile/ HTTP/1.1" 200 5002
+"POST /profile/ HTTP/1.1" 200 5066
+"POST /profile/ HTTP/1.1" 200 5066
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /profile/ HTTP/1.1" 200 5002
+"GET /profile/ HTTP/1.1" 200 5002
+"GET /profile/ HTTP/1.1" 200 5044
+"GET /profile/ HTTP/1.1" 200 5044
+"GET /profile/ HTTP/1.1" 200 5849
+"GET /profile/ HTTP/1.1" 200 5849
+"GET /profile/ HTTP/1.1" 200 5607
+"GET /profile/ HTTP/1.1" 200 5607
+"GET /profile/ HTTP/1.1" 200 5585
+"GET /profile/ HTTP/1.1" 200 5585
+"GET /profile/ HTTP/1.1" 200 5598
+"GET /profile/ HTTP/1.1" 200 5598
+"GET /profile/ HTTP/1.1" 200 5608
+"GET /profile/ HTTP/1.1" 200 5608
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5753
+"GET /profile/ HTTP/1.1" 200 5753
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /profile/ HTTP/1.1" 200 5624
+"GET /profile/ HTTP/1.1" 200 5624
+"POST /profile/ HTTP/1.1" 200 5862
+"POST /profile/ HTTP/1.1" 200 5862
+"POST /profile/ HTTP/1.1" 200 5873
+"POST /profile/ HTTP/1.1" 200 5873
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5753
+"GET /profile/ HTTP/1.1" 200 5753
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about HTTP/1.1" 301 0
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 2233
+"GET /about/ HTTP/1.1" 200 2233
+"GET /about/ HTTP/1.1" 200 2290
+"GET /about/ HTTP/1.1" 200 2290
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2290
+"GET /about/ HTTP/1.1" 200 2290
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2263
+"GET /about/ HTTP/1.1" 200 2263
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7387
+"GET /favicon.ico HTTP/1.1" 404 7387
+"GET /register/ HTTP/1.1" 200 4984
+"GET /register/ HTTP/1.1" 200 4984
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /account/login/ HTTP/1.1" 200 3829
+"GET /account/login/ HTTP/1.1" 200 3829
+"GET /register/ HTTP/1.1" 200 4984
+"GET /register/ HTTP/1.1" 200 4984
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Failed login attempt: user=account4
+"POST /account/login/ HTTP/1.1" 200 3864
+"POST /account/login/ HTTP/1.1" 200 3864
+Failed login attempt: user=account4
+"POST /account/login/ HTTP/1.1" 200 3864
+"POST /account/login/ HTTP/1.1" 200 3864
+Successful login: user=account3
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /profile/ HTTP/1.1" 200 5555
+"GET /profile/ HTTP/1.1" 200 5555
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5698
+"GET /profile/ HTTP/1.1" 200 5698
+"GET /post/new/ HTTP/1.1" 200 3672
+"GET /post/new/ HTTP/1.1" 200 3672
+"POST /post/new/ HTTP/1.1" 302 0
+"POST /post/new/ HTTP/1.1" 302 0
+"GET /post/4/ HTTP/1.1" 200 3211
+"GET /post/4/ HTTP/1.1" 200 3211
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+User logged out: user=account3
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET / HTTP/1.1" 200 3779
+"GET / HTTP/1.1" 200 3779
+Internal Server Error: /post/4/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/4/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/4/ HTTP/1.1" 500 82017
+"GET /post/4/ HTTP/1.1" 500 82017
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/3/ HTTP/1.1" 500 82017
+"GET /post/3/ HTTP/1.1" 500 82017
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/1/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/1/ HTTP/1.1" 500 82017
+"GET /post/1/ HTTP/1.1" 500 82017
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Secure_Sam
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6299
+"GET /post/4/ HTTP/1.1" 404 6299
+"GET /post/3/ HTTP/1.1" 200 3214
+"GET /post/3/ HTTP/1.1" 200 3214
+Not Found: /post/1/
+Not Found: /post/1/
+"GET /post/1/ HTTP/1.1" 404 6299
+"GET /post/1/ HTTP/1.1" 404 6299
+User logged out: user=Secure_Sam
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /profile/ HTTP/1.1" 200 5624
+"GET /profile/ HTTP/1.1" 200 5624
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5737
+"GET /profile/ HTTP/1.1" 200 5737
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Secure_Sam
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/1/ HTTP/1.1" 200 3039
+"GET /post/1/ HTTP/1.1" 200 3039
+User logged out: user=Secure_Sam
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET / HTTP/1.1" 200 3779
+"GET / HTTP/1.1" 200 3779
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/3/ HTTP/1.1" 500 82017
+"GET /post/3/ HTTP/1.1" 500 82017
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/3/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/3/ HTTP/1.1" 500 82154
+"GET /post/3/ HTTP/1.1" 500 82154
+Internal Server Error: /post/4/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+Internal Server Error: /post/4/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 112, in get
+    self.object = self.get_object()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\detail.py", line 37, in get_object
+    queryset = queryset.filter(pk=pk)
+AttributeError: 'NoneType' object has no attribute 'filter'
+"GET /post/4/ HTTP/1.1" 500 82017
+"GET /post/4/ HTTP/1.1" 500 82017
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/1/ HTTP/1.1" 200 3231
+"GET /post/1/ HTTP/1.1" 200 3231
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Failed login attempt: user=Secure_Sam
+"POST /account/login/ HTTP/1.1" 200 3866
+"POST /account/login/ HTTP/1.1" 200 3866
+Successful login: user=Secure_Sam
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /post/3/ HTTP/1.1" 200 3214
+"GET /post/3/ HTTP/1.1" 200 3214
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET /post/1/ HTTP/1.1" 200 3039
+"GET /post/1/ HTTP/1.1" 200 3039
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+"GET / HTTP/1.1" 200 3626
+User logged out: user=Secure_Sam
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2128, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py", line 28, in get_queryset
+    return qs.filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1495, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1513, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1523, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1648, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1505, in build_filter
+    return self._add_q(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1590, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1417, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\lookups.py", line 38, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 112, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2130, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x000002B1CF669660>>>.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2128, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py", line 28, in get_queryset
+    return qs.filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1495, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1513, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1523, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1648, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1505, in build_filter
+    return self._add_q(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1590, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1417, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\lookups.py", line 38, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 112, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2130, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x000002B1CF669660>>>.
+"GET / HTTP/1.1" 500 152618
+"GET / HTTP/1.1" 500 152618
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2128, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py", line 28, in get_queryset
+    if user.is_authenticated:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1495, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1513, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1523, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1648, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1505, in build_filter
+    return self._add_q(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1590, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1417, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\lookups.py", line 38, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 112, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2130, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x000002B1CF84BDC0>>>.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2128, in get_prep_value
+    return int(value)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'SimpleLazyObject'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 105, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\base.py", line 144, in dispatch
+    return handler(request, *args, **kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\views\generic\list.py", line 158, in get
+    self.object_list = self.get_queryset()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py", line 28, in get_queryset
+    if user.is_authenticated:
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1495, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1513, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\query.py", line 1523, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1648, in add_q
+    clause, _ = self._add_q(q_object, can_reuse)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1505, in build_filter
+    return self._add_q(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1680, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1590, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\sql\query.py", line 1417, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\lookups.py", line 38, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 112, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\db\models\fields\__init__.py", line 2130, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <SimpleLazyObject: <SimpleLazyObject: <django.contrib.auth.models.AnonymousUser object at 0x000002B1CF84BDC0>>>.
+"GET / HTTP/1.1" 500 152696
+"GET / HTTP/1.1" 500 152696
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+"GET / HTTP/1.1" 200 2202
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\utils.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\utils.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\utils.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\utils.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/1/ HTTP/1.1" 200 2674
+"GET /post/1/ HTTP/1.1" 200 2674
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /profile/ HTTP/1.1" 200 5608
+"GET /profile/ HTTP/1.1" 200 5608
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5755
+"GET /profile/ HTTP/1.1" 200 5755
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET /about/ HTTP/1.1" 200 2491
+"GET /about/ HTTP/1.1" 200 2491
+"GET /about/ HTTP/1.1" 200 2478
+"GET /about/ HTTP/1.1" 200 2478
+"GET /about/ HTTP/1.1" 200 2491
+"GET /about/ HTTP/1.1" 200 2491
+"GET /about/ HTTP/1.1" 200 2499
+"GET /about/ HTTP/1.1" 200 2499
+"GET / HTTP/1.1" 200 2723
+"GET / HTTP/1.1" 200 2723
+"GET /about/ HTTP/1.1" 200 2499
+"GET /about/ HTTP/1.1" 200 2499
+"GET /register/ HTTP/1.1" 200 4984
+"GET /register/ HTTP/1.1" 200 4984
+"POST /register/ HTTP/1.1" 200 5543
+"POST /register/ HTTP/1.1" 200 5543
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /register/ HTTP/1.1" 200 5521
+"POST /register/ HTTP/1.1" 200 5521
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\validators.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /register/ HTTP/1.1" 200 5529
+"POST /register/ HTTP/1.1" 200 5529
+"POST /register/ HTTP/1.1" 200 5529
+"POST /register/ HTTP/1.1" 200 5529
+"GET / HTTP/1.1" 200 2723
+"GET / HTTP/1.1" 200 2723
+"GET / HTTP/1.1" 200 2723
+"GET / HTTP/1.1" 200 2723
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /profile/ HTTP/1.1" 200 5626
+"GET /profile/ HTTP/1.1" 200 5626
+"POST /profile/ HTTP/1.1" 302 0
+"POST /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 200 5747
+"GET /profile/ HTTP/1.1" 200 5747
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
