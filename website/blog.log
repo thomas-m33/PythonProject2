@@ -6678,3 +6678,1920 @@ User logged out: user=Thomas
 "POST /logout/ HTTP/1.1" 200 2374
 "GET / HTTP/1.1" 200 3261
 "GET / HTTP/1.1" 200 3261
+"GET /post/1/ HTTP/1.1" 200 2674
+"GET /post/1/ HTTP/1.1" 200 2674
+"GET /register/ HTTP/1.1" 200 4984
+"GET /register/ HTTP/1.1" 200 4984
+"GET /about/ HTTP/1.1" 200 2499
+"GET /about/ HTTP/1.1" 200 2499
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET /account/two_factor/ HTTP/1.1" 200 2785
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4144
+"GET / HTTP/1.1" 200 4144
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/1/ HTTP/1.1" 200 3231
+"GET /post/1/ HTTP/1.1" 200 3231
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/4/ HTTP/1.1" 200 3019
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/3/ HTTP/1.1" 200 3022
+"GET /post/1/ HTTP/1.1" 200 3231
+"GET /post/1/ HTTP/1.1" 200 3231
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2374
+"POST /logout/ HTTP/1.1" 200 2374
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/4/ HTTP/1.1" 200 2654
+"GET /post/4/ HTTP/1.1" 200 2654
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6299
+"GET /post/4/ HTTP/1.1" 404 6299
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2499
+"GET /about/ HTTP/1.1" 200 2499
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /about/ HTTP/1.1" 200 2499
+"GET /about/ HTTP/1.1" 200 2499
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /register/ HTTP/1.1" 200 4984
+"GET /register/ HTTP/1.1" 200 4984
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3261
+"GET / HTTP/1.1" 200 3261
+"GET /post/3/ HTTP/1.1" 200 2657
+"GET /post/3/ HTTP/1.1" 200 2657
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/3/ HTTP/1.1" 200 2963
+"GET /post/3/ HTTP/1.1" 200 2963
+"GET /sw.js HTTP/1.1" 200 597
+"GET /sw.js HTTP/1.1" 200 597
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /posts/
+Not Found: /posts/
+"GET /posts/ HTTP/1.1" 404 7534
+"GET /posts/ HTTP/1.1" 404 7534
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+"GET /sw.js HTTP/1.1" 200 597
+"GET /sw.js HTTP/1.1" 200 597
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /posts/
+Not Found: /posts/
+"GET /posts/ HTTP/1.1" 404 7534
+"GET /posts/ HTTP/1.1" 404 7534
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 597
+"GET /sw.js HTTP/1.1" 200 597
+Not Found: /posts/
+Not Found: /posts/
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET /posts/ HTTP/1.1" 404 7534
+"GET /posts/ HTTP/1.1" 404 7534
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /posts
+Not Found: /posts
+"GET /posts HTTP/1.1" 404 7531
+"GET /posts HTTP/1.1" 404 7531
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+"GET /sw.js HTTP/1.1" 200 596
+"GET /sw.js HTTP/1.1" 200 596
+Not Found: /post/
+Not Found: /post/
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET /post/ HTTP/1.1" 404 7531
+"GET /post/ HTTP/1.1" 404 7531
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+- Broken pipe from ('127.0.0.1', 52271)
+- Broken pipe from ('127.0.0.1', 52271)
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 596
+"GET /sw.js HTTP/1.1" 200 596
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+Not Found: /post/
+Not Found: /post/
+"GET /post/ HTTP/1.1" 404 7531
+"GET /post/ HTTP/1.1" 404 7531
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /post
+Not Found: /post
+"GET /post HTTP/1.1" 404 7528
+"GET /post HTTP/1.1" 404 7528
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /post/1/ HTTP/1.1" 200 2980
+"GET /post/1/ HTTP/1.1" 200 2980
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 596
+"GET /sw.js HTTP/1.1" 200 596
+Not Found: /post/
+Not Found: /post/
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET /post/ HTTP/1.1" 404 7531
+"GET /post/ HTTP/1.1" 404 7531
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+"GET /post/1/ HTTP/1.1" 200 2980
+"GET /post/1/ HTTP/1.1" 200 2980
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /about/ HTTP/1.1" 200 2805
+"GET /about/ HTTP/1.1" 200 2805
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3567
+"GET / HTTP/1.1" 200 3567
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /post/1/ HTTP/1.1" 200 2980
+"GET /post/1/ HTTP/1.1" 200 2980
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /post/3/ HTTP/1.1" 200 3116
+"GET /post/3/ HTTP/1.1" 200 3116
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /sw.js HTTP/1.1" 200 1425
+"GET /sw.js HTTP/1.1" 200 1425
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1461
+"GET /sw.js HTTP/1.1" 200 1461
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1462
+"GET /sw.js HTTP/1.1" 200 1462
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1464
+"GET /sw.js HTTP/1.1" 200 1464
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1464
+"GET /sw.js HTTP/1.1" 200 1464
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1464
+"GET /sw.js HTTP/1.1" 200 1464
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /post/1/ HTTP/1.1" 200 3133
+"GET /post/1/ HTTP/1.1" 200 3133
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /register/ HTTP/1.1" 200 5443
+"GET /register/ HTTP/1.1" 200 5443
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /account/login/ HTTP/1.1" 200 3672
+"GET /account/login/ HTTP/1.1" 200 3672
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+Not Found: /offline
+Not Found: /offline
+"GET /offline HTTP/1.1" 404 7537
+"GET /offline HTTP/1.1" 404 7537
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /offline HTTP/1.1" 301 0
+"GET /offline HTTP/1.1" 301 0
+Internal Server Error: /offline/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: offline.html
+Internal Server Error: /offline/
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: offline.html
+"GET /offline/ HTTP/1.1" 500 84690
+"GET /offline/ HTTP/1.1" 500 84690
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7827
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7827
+"GET /sw.js HTTP/1.1" 200 1427
+"GET /sw.js HTTP/1.1" 200 1427
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /about HTTP/1.1" 301 0
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1473
+"GET /sw.js HTTP/1.1" 200 1473
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /about HTTP/1.1" 301 0
+"GET /about HTTP/1.1" 301 0
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1472
+"GET /sw.js HTTP/1.1" 200 1472
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1434
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /about HTTP/1.1" 301 0
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET / HTTP/1.1" 200 3720
+"GET / HTTP/1.1" 200 3720
+"GET /about/ HTTP/1.1" 200 2958
+"GET /about/ HTTP/1.1" 200 2958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /sw.js HTTP/1.1" 200 2175
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3399
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3399
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3861
+"POST /account/two_factor/setup/ HTTP/1.1" 200 3861
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /about HTTP/1.1" 301 0
+"GET /about HTTP/1.1" 301 0
+"GET /about/ HTTP/1.1" 200 3324
+"GET /about/ HTTP/1.1" 200 3324
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 4604
+"GET / HTTP/1.1" 200 4604
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 4604
+"GET / HTTP/1.1" 200 4604
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /post/4/ HTTP/1.1" 200 3479
+"GET /post/4/ HTTP/1.1" 200 3479
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1435
+"GET /sw.js HTTP/1.1" 200 1435
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3287
+"GET /account/two_factor/ HTTP/1.1" 200 3287
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET / HTTP/1.1" 200 4953
+"GET / HTTP/1.1" 200 4953
+"GET /post/4/ HTTP/1.1" 200 3828
+"GET /post/4/ HTTP/1.1" 200 3828
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET / HTTP/1.1" 200 4953
+"GET / HTTP/1.1" 200 4953
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET / HTTP/1.1" 200 4953
+"GET / HTTP/1.1" 200 4953
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /post/new/ HTTP/1.1" 302 0
+"GET /post/new/ HTTP/1.1" 302 0
+"GET /account/login/?next=/post/new/ HTTP/1.1" 200 3825
+"GET /account/login/?next=/post/new/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /profile/ HTTP/1.1" 302 0
+"GET /profile/ HTTP/1.1" 302 0
+"GET /account/login/?next=/profile/ HTTP/1.1" 200 3825
+"GET /account/login/?next=/profile/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1679
+"GET /sw.js HTTP/1.1" 200 1679
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3287
+"GET /account/two_factor/ HTTP/1.1" 200 3287
+"GET / HTTP/1.1" 200 4960
+"GET / HTTP/1.1" 200 4960
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /post/3/ HTTP/1.1" 200 3838
+"GET /post/3/ HTTP/1.1" 200 3838
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /post/1/ HTTP/1.1" 200 3134
+"GET /post/1/ HTTP/1.1" 200 3134
+"GET /sw.js HTTP/1.1" 200 1989
+"GET /sw.js HTTP/1.1" 200 1989
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3292
+"GET /account/two_factor/ HTTP/1.1" 200 3292
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET / HTTP/1.1" 200 4965
+"GET / HTTP/1.1" 200 4965
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /post/4/ HTTP/1.1" 200 3840
+"GET /post/4/ HTTP/1.1" 200 3840
+"GET / HTTP/1.1" 200 4965
+"GET / HTTP/1.1" 200 4965
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /post/3/ HTTP/1.1" 200 3843
+"GET /post/3/ HTTP/1.1" 200 3843
+"GET / HTTP/1.1" 200 4965
+"GET / HTTP/1.1" 200 4965
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET /sw.js HTTP/1.1" 200 1660
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /sw.js HTTP/1.1" 200 979
+"GET /sw.js HTTP/1.1" 200 979
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 979
+"GET /sw.js HTTP/1.1" 200 979
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 979
+"GET /sw.js HTTP/1.1" 200 979
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 979
+"GET /sw.js HTTP/1.1" 200 979
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 979
+"GET /sw.js HTTP/1.1" 200 979
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+"GET /sw.js HTTP/1.1" 200 970
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+"GET /about/ HTTP/1.1" 200 3324
+"GET /about/ HTTP/1.1" 200 3324
+"GET / HTTP/1.1" 200 4604
+"GET / HTTP/1.1" 200 4604
+"GET /account/login/ HTTP/1.1" 200 4190
+"GET /account/login/ HTTP/1.1" 200 4190
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+"GET /post/4/ HTTP/1.1" 200 3479
+"GET /post/4/ HTTP/1.1" 200 3479
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 2834
+"POST /logout/ HTTP/1.1" 200 2834
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /post/4/ HTTP/1.1" 404 6461
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 706
+"GET /sw.js HTTP/1.1" 200 706
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+"GET /about/ HTTP/1.1" 200 2959
+"GET /about/ HTTP/1.1" 200 2959
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 3721
+"GET / HTTP/1.1" 200 3721
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964
+"GET /sw.js HTTP/1.1" 200 964

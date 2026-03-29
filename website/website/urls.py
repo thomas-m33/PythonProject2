@@ -5,8 +5,10 @@ from users import views as user_views
 from django.conf import settings
 from django.conf.urls.static import static
 from two_factor.urls import urlpatterns as tf_urls
+from blog.views import service_worker
 
 urlpatterns = [
+    path("sw.js", service_worker, name="sw.js"),
     path('register/', user_views.register, name='register'),
     path('profile/', user_views.profile, name='profile'),
     path('admin/', admin.site.urls),

@@ -28,7 +28,7 @@
       <div class="collapse navbar-collapse" id="navbarToggle">
         <div class="navbar-nav mr-auto">
           <a class="nav-item nav-link" href="/">Home</a>
-          <a class="nav-item nav-link" href="/about">About</a>
+          <a class="nav-item nav-link" href="/about/">About</a>
         </div>
         <!-- Navbar Right Side -->
         <div class="navbar-nav">
@@ -77,6 +77,18 @@
   </div>
 </main>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+{% load static %}
+<script>
+  if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+      navigator.serviceWorker.register("{% url 'sw.js' %}")
+        .then(reg => console.log("Service worker registered:", reg.scope))
+        .catch(err => console.error("Service worker failed:", err));
+    });
+  }
+</script>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js"></script>
 </body>
 </html>

@@ -3,6 +3,15 @@ from django.contrib.auth.mixins import LoginRequiredMixin, UserPassesTestMixin
 from django.views.generic import ListView, DetailView, CreateView, UpdateView, DeleteView
 from .models import Post
 from .utils import visible_posts
+from django.contrib.staticfiles import finders
+from django.http import FileResponse, Http404
+
+def service_worker(request):
+    sw_path = finders.find("blog/sw.js")
+    if not sw_path:
+        raise Http404("Service worker not found")
+    return FileResponse(open(sw_path, "rb"), content_type="application/javascript")
+
 
 def home(request):
     context = {
