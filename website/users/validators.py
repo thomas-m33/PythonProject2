@@ -11,7 +11,9 @@ class ContainsNumberValidator:
             raise ValidationError(
                 "This password does not contain a number.",
                 code="password_no_number",
+                # the error message is shown to the user in red if this validator detects their password has no number
             )
+
 
     def get_help_text(self): # displays the return message to user as a password requirement
         return "Your password must contain at least one number."

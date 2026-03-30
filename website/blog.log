@@ -8595,3 +8595,1308 @@ Not Found: /.well-known/appspecific/com.chrome.devtools.json
 "GET /sw.js HTTP/1.1" 200 964
 "GET /sw.js HTTP/1.1" 200 964
 "GET /sw.js HTTP/1.1" 200 964
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4579
+"GET / HTTP/1.1" 200 4579
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3263
+"GET /about/ HTTP/1.1" 200 3263
+"GET / HTTP/1.1" 200 4579
+"GET / HTTP/1.1" 200 4579
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET / HTTP/1.1" 200 5739
+"GET / HTTP/1.1" 200 5739
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 4436
+"GET /post/new/ HTTP/1.1" 200 4436
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/new/ HTTP/1.1" 302 0
+"POST /post/new/ HTTP/1.1" 302 0
+"GET /post/5/ HTTP/1.1" 200 4000
+"GET /post/5/ HTTP/1.1" 200 4000
+"GET / HTTP/1.1" 200 6559
+"GET / HTTP/1.1" 200 6559
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /admin/ HTTP/1.1" 200 16472
+"GET /admin/ HTTP/1.1" 200 16472
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /admin/blog/category/ HTTP/1.1" 200 17648
+"GET /admin/blog/category/ HTTP/1.1" 200 17648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /admin/blog/category/ HTTP/1.1" 200 17648
+"GET /admin/blog/category/ HTTP/1.1" 200 17648
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /admin/blog/post/ HTTP/1.1" 200 17836
+"GET /admin/blog/post/ HTTP/1.1" 200 17836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /admin/blog/post/5/change/ HTTP/1.1" 200 20722
+"GET /admin/blog/post/5/change/ HTTP/1.1" 200 20722
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /admin/blog/post/5/change/ HTTP/1.1" 200 20955
+"POST /admin/blog/post/5/change/ HTTP/1.1" 200 20955
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /admin/blog/post/5/change/ HTTP/1.1" 302 0
+"POST /admin/blog/post/5/change/ HTTP/1.1" 302 0
+"GET /admin/blog/post/ HTTP/1.1" 200 18377
+"GET /admin/blog/post/ HTTP/1.1" 200 18377
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6688
+"GET / HTTP/1.1" 200 6688
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /?category=Programming HTTP/1.1" 200 4365
+"GET /?category=Programming HTTP/1.1" 200 4365
+"GET /?tag=true HTTP/1.1" 200 4353
+"GET /?tag=true HTTP/1.1" 200 4353
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6688
+"GET / HTTP/1.1" 200 6688
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /?q=programming HTTP/1.1" 200 4291
+"GET /?q=programming HTTP/1.1" 200 4291
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /?q=private HTTP/1.1" 200 4133
+"GET /?q=private HTTP/1.1" 200 4133
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6688
+"GET / HTTP/1.1" 200 6688
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /profile/ HTTP/1.1" 200 6382
+"GET /profile/ HTTP/1.1" 200 6382
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6688
+"GET / HTTP/1.1" 200 6688
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6688
+"GET / HTTP/1.1" 200 6688
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 6616
+"GET / HTTP/1.1" 200 6616
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6472
+"GET / HTTP/1.1" 200 6472
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/5/delete/ HTTP/1.1" 200 4020
+"GET /post/5/delete/ HTTP/1.1" 200 4020
+"POST /post/5/delete/ HTTP/1.1" 302 0
+"POST /post/5/delete/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 5562
+"GET / HTTP/1.1" 200 5562
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /profile/ HTTP/1.1" 200 6382
+"GET /profile/ HTTP/1.1" 200 6382
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 5562
+"GET / HTTP/1.1" 200 5562
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5562
+"GET / HTTP/1.1" 200 5562
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 3138
+"POST /logout/ HTTP/1.1" 200 3138
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /register/ HTTP/1.1" 200 5748
+"GET /register/ HTTP/1.1" 200 5748
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /account/login/ HTTP/1.1" 200 3982
+"GET /account/login/ HTTP/1.1" 200 3982
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=account4
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4826
+"GET / HTTP/1.1" 200 4826
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4826
+"GET / HTTP/1.1" 200 4826
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3628
+"GET /about/ HTTP/1.1" 200 3628
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4826
+"GET / HTTP/1.1" 200 4826
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4826
+"GET / HTTP/1.1" 200 4826
+"GET /about/ HTTP/1.1" 200 3628
+"GET /about/ HTTP/1.1" 200 3628
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3263
+"GET /about/ HTTP/1.1" 200 3263
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /post/new/ HTTP/1.1" 200 3846
+"GET /post/new/ HTTP/1.1" 200 3846
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3263
+"GET /about/ HTTP/1.1" 200 3263
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /post/new/ HTTP/1.1" 200 5489
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3263
+"GET /about/ HTTP/1.1" 200 3263
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /media/default.jpg HTTP/1.1" 200 3602
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /static/blog/main.css HTTP/1.1" 200 1217
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 200 6013
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3263
+"GET /about/ HTTP/1.1" 200 3263
+"GET / HTTP/1.1" 200 4461
+"GET / HTTP/1.1" 200 4461
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /post/new/ HTTP/1.1" 200 4958
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 4826
+"GET / HTTP/1.1" 200 4826
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+User logged out: user=account4
+"POST /logout/ HTTP/1.1" 200 3138
+"POST /logout/ HTTP/1.1" 200 3138
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /account/login/ HTTP/1.1" 200 3825
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /account/two_factor/ HTTP/1.1" 200 2938
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 7876
+"GET /post/new/ HTTP/1.1" 200 7876
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/new/ HTTP/1.1" 200 5545
+"GET /post/new/ HTTP/1.1" 200 5545
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/new/ HTTP/1.1" 302 0
+"POST /post/new/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6732
+"GET / HTTP/1.1" 200 6732
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 5545
+"GET /post/new/ HTTP/1.1" 200 5545
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/new/ HTTP/1.1" 200 5511
+"GET /post/new/ HTTP/1.1" 200 5511
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6732
+"GET / HTTP/1.1" 200 6732
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /?q=hi+guys HTTP/1.1" 200 4077
+"GET /?q=hi+guys HTTP/1.1" 200 4077
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6732
+"GET / HTTP/1.1" 200 6732
+"GET /profile/ HTTP/1.1" 200 6381
+"GET /profile/ HTTP/1.1" 200 6381
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6732
+"GET / HTTP/1.1" 200 6732
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/new/ HTTP/1.1" 200 5511
+"GET /post/new/ HTTP/1.1" 200 5511
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6732
+"GET / HTTP/1.1" 200 6732
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /post/6/update/ HTTP/1.1" 200 5015
+"GET /post/6/update/ HTTP/1.1" 200 5015
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /post/6/update/ HTTP/1.1" 200 5622
+"GET /post/6/update/ HTTP/1.1" 200 5622
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /post/6/ HTTP/1.1" 200 3999
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6379
+"GET / HTTP/1.1" 200 6379
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /account/login/ HTTP/1.1" 200 3966
+"GET /account/login/ HTTP/1.1" 200 3966
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /register/ HTTP/1.1" 200 5778
+"GET /register/ HTTP/1.1" 200 5778
+"GET /account/login/ HTTP/1.1" 200 3966
+"GET /account/login/ HTTP/1.1" 200 3966
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /account/login/ HTTP/1.1" 200 4335
+"GET /account/login/ HTTP/1.1" 200 4335
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3293
+"GET /about/ HTTP/1.1" 200 3293
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /about/ HTTP/1.1" 200 3293
+"GET /about/ HTTP/1.1" 200 3293
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /?q=hi HTTP/1.1" 200 3737
+"GET /?q=hi HTTP/1.1" 200 3737
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 5308
+"GET / HTTP/1.1" 200 5308
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6409
+"GET / HTTP/1.1" 200 6409
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /post/6/ HTTP/1.1" 200 4029
+"GET /post/6/ HTTP/1.1" 200 4029
+"GET /post/6/update/ HTTP/1.1" 200 5625
+"GET /post/6/update/ HTTP/1.1" 200 5625
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6976
+"GET / HTTP/1.1" 200 6976
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6832
+"GET / HTTP/1.1" 200 6832
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 6467
+"GET / HTTP/1.1" 200 6467
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 3168
+"POST /logout/ HTTP/1.1" 200 3168
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET / HTTP/1.1" 200 5366
+"GET / HTTP/1.1" 200 5366
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"POST /logout/ HTTP/1.1" 200 3168
+"POST /logout/ HTTP/1.1" 200 3168
+"GET / HTTP/1.1" 200 5366
+"GET / HTTP/1.1" 200 5366
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+"GET /sw.js HTTP/1.1" 200 1031
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 7660
+"GET / HTTP/1.1" 200 5366
+"GET / HTTP/1.1" 200 5366
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 5366
+"GET / HTTP/1.1" 200 5366
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET / HTTP/1.1" 200 6467
+"GET / HTTP/1.1" 200 6467
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET / HTTP/1.1" 200 6467
+"GET / HTTP/1.1" 200 6467
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 4075
+"GET /post/6/ HTTP/1.1" 200 4075
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/update/ HTTP/1.1" 200 5674
+"GET /post/6/update/ HTTP/1.1" 200 5674
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 6473
+"GET / HTTP/1.1" 200 6473
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 3168
+"POST /logout/ HTTP/1.1" 200 3168
+"GET / HTTP/1.1" 200 5372
+"GET / HTTP/1.1" 200 5372
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 5372
+"GET / HTTP/1.1" 200 5372
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 5372
+"GET / HTTP/1.1" 200 5372
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /account/login/ HTTP/1.1" 200 4325
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET /account/two_factor/ HTTP/1.1" 200 3438
+"GET / HTTP/1.1" 200 6473
+"GET / HTTP/1.1" 200 6473
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 6539
+"GET / HTTP/1.1" 200 6539
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/update/ HTTP/1.1" 200 5672
+"GET /post/6/update/ HTTP/1.1" 200 5672
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET / HTTP/1.1" 200 6471
+"GET / HTTP/1.1" 200 6471
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /post/6/update/ HTTP/1.1" 200 5665
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /post/6/update/ HTTP/1.1" 302 0
+"POST /post/6/update/ HTTP/1.1" 302 0
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET /post/6/ HTTP/1.1" 200 4081
+"GET / HTTP/1.1" 200 6473
+"GET / HTTP/1.1" 200 6473
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 3168
+"POST /logout/ HTTP/1.1" 200 3168
+"GET / HTTP/1.1" 200 5372
+"GET / HTTP/1.1" 200 5372
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\blog\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5372
+"GET / HTTP/1.1" 200 5372
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /account/login/?next=/admin/ HTTP/1.1" 200 4355
+"GET /account/login/?next=/admin/ HTTP/1.1" 200 4355
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=Thomas
+"POST /account/login/?next=/admin/ HTTP/1.1" 302 0
+"POST /account/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 16273
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 16273
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/setup/ HTTP/1.1" 302 0
+"POST /account/two_factor/setup/ HTTP/1.1" 302 0
+"GET /account/two_factor/setup/complete/ HTTP/1.1" 200 3427
+"GET /account/two_factor/setup/complete/ HTTP/1.1" 200 3427
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/two_factor/ HTTP/1.1" 200 3867
+"GET /account/two_factor/ HTTP/1.1" 200 3867
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 6473
+"GET / HTTP/1.1" 200 6473
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_totp/totpdevice/ HTTP/1.1" 200 16262
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_static/staticdevice/ HTTP/1.1" 200 16284
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/otp_email/emaildevice/ HTTP/1.1" 200 18408
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /admin/ HTTP/1.1" 200 16517
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /profile/ HTTP/1.1" 200 6578
+"GET /profile/ HTTP/1.1" 200 6578
+"GET /account/two_factor/ HTTP/1.1" 200 3867
+"GET /account/two_factor/ HTTP/1.1" 200 3867
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/two_factor/disable/ HTTP/1.1" 200 3799
+"GET /account/two_factor/disable/ HTTP/1.1" 200 3799
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/disable/ HTTP/1.1" 302 0
+"POST /account/two_factor/disable/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 6473
+"GET / HTTP/1.1" 200 6473
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\forms.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\users\models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5626
+"GET / HTTP/1.1" 200 5626
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /post/6/ HTTP/1.1" 200 3524
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/3/ HTTP/1.1" 200 3451
+"GET /post/3/ HTTP/1.1" 200 3451
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/1/ HTTP/1.1" 200 3468
+"GET /post/1/ HTTP/1.1" 200 3468
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/login/ HTTP/1.1" 200 4355
+"GET /account/login/ HTTP/1.1" 200 4355
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=Thomas
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET / HTTP/1.1" 200 6795
+"GET / HTTP/1.1" 200 6795
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET /post/4/ HTTP/1.1" 200 3813
+"GET / HTTP/1.1" 200 6795
+"GET / HTTP/1.1" 200 6795
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /post/3/ HTTP/1.1" 200 3816
+"GET /post/3/ HTTP/1.1" 200 3816
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 6795
+"GET / HTTP/1.1" 200 6795
+"GET /about/ HTTP/1.1" 200 3658
+"GET /about/ HTTP/1.1" 200 3658
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET / HTTP/1.1" 200 6795
+"GET / HTTP/1.1" 200 6795
+User logged out: user=Thomas
+"POST /logout/ HTTP/1.1" 200 3274
+"POST /logout/ HTTP/1.1" 200 3274
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /post/4/ HTTP/1.1" 404 6461
+Not Found: /post/4/
+Not Found: /post/4/
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /post/4/ HTTP/1.1" 404 6461
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5626
+"GET / HTTP/1.1" 200 5626
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /static/blog/main.css HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/profile_pics/1lu31x1angtb1.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+"GET /media/default.jpg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 7549
+"GET /favicon.ico HTTP/1.1" 404 7549
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /register/ HTTP/1.1" 200 5778
+"GET /register/ HTTP/1.1" 200 5778
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /register/ HTTP/1.1" 200 5778
+"GET /register/ HTTP/1.1" 200 5778
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /register/ HTTP/1.1" 302 0
+"POST /register/ HTTP/1.1" 302 0
+"GET /account/login/ HTTP/1.1" 200 4512
+"GET /account/login/ HTTP/1.1" 200 4512
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=emailtest
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Could not generate challenge
+Traceback (most recent call last):
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\two_factor\views\core.py", line 525, in render_next_step
+    self.get_device().generate_challenge()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\plugins\otp_email\models.py", line 67, in generate_challenge
+    message = self._deliver_token(extra_context)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\plugins\otp_email\models.py", line 106, in _deliver_token
+    self.send_mail(body, html_message=body_html)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django_otp\plugins\otp_email\models.py", line 129, in send_mail
+    send_mail(
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\mail\__init__.py", line 92, in send_mail
+    return mail.send()
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\mail\message.py", line 307, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\mail\backends\smtp.py", line 136, in send_messages
+    sent = self._send(message)
+  File "C:\Users\tmira\PycharmProjects\PythonProject2\.venv\lib\site-packages\django\core\mail\backends\smtp.py", line 155, in _send
+    self.connection.sendmail(
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\smtplib.py", line 887, in sendmail
+    raise SMTPSenderRefused(code, resp, from_addr)
+smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/accounts/troubleshooter/2402620. d9443c01a7336-2b2426896edsm71670765ad.34 - gsmtp', 'webmaster@localhost')
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4428
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4428
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4602
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4602
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 5626
+"GET / HTTP/1.1" 200 5626
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /account/login/ HTTP/1.1" 200 4355
+"GET /account/login/ HTTP/1.1" 200 4355
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+Successful login: user=emailtest
+"POST /account/login/ HTTP/1.1" 302 0
+"POST /account/login/ HTTP/1.1" 302 0
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/ HTTP/1.1" 200 3468
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"GET /account/two_factor/setup/ HTTP/1.1" 200 3929
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4391
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"POST /account/two_factor/setup/ HTTP/1.1" 200 4126
+"GET /sw.js HTTP/1.1" 200 1144
+"GET /sw.js HTTP/1.1" 200 1144
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+C:\Users\tmira\PycharmProjects\PythonProject2\website\website\settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader

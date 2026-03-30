@@ -71,5 +71,6 @@ class LoginViewFor2FA(LoginView):
 class CustomPasswordResetConfirmView(PasswordResetConfirmView):
     def form_valid(self, form):
         response = super().form_valid(form)
-        logout_all_sessions(self.user, current_session_key=self.request.session.session_key)   # invalidate all existing sessions
+        logout_all_sessions(self.user, current_session_key=self.request.session.session_key)
+        # invalidate all existing sessions
         return response

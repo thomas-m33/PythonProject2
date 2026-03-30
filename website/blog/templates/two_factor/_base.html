@@ -1,4 +1,8 @@
 <!DOCTYPE html>
+
+<!-- This is the version of base.html that anything in the two_factor/core directory will use -->
+<!-- It is mostly identical to the original since nothing needs to change -->
+
 {% load static %}
 <html lang="en">
 <head>
@@ -30,6 +34,23 @@
           <a class="nav-item nav-link" href="/">Home</a>
           <a class="nav-item nav-link" href="/about">About</a>
         </div>
+        <form class="form-inline my-2 my-md-0 mr-3" action="{% url 'blog-home' %}" method="get">
+            <input
+              class="form-control"
+              type="text"
+              name="q"
+              placeholder="Search posts"
+              value="{{ request.GET.q|default_if_none:'' }}"
+            >
+            {% if selected_category %}
+              <input type="hidden" name="category" value="{{ selected_category }}">
+            {% endif %}
+            {% if selected_tag %}
+              <input type="hidden" name="tag" value="{{ selected_tag }}">
+            {% endif %}
+          </form>
+        </div>
+        <!-- Navbar Right Side -->
         <div class="navbar-nav">
           {% if user.is_authenticated %}
             <a class="nav-link" href="{% url 'post-create' %}">New Post</a>

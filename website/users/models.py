@@ -5,7 +5,7 @@ from PIL import Image
 
 class Profile(models.Model):
     user = models.OneToOneField(User, on_delete=models.CASCADE)
-    # all profile information is deleted when the user is deleted
+    # models.CASCADE deletes all profile information when the user is deleted which helps with privacy
     image = models.ImageField(default='default.jpg', upload_to='profile_pics')
 
     def __str__(self):

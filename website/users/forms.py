@@ -5,6 +5,7 @@ from .models import Profile
 
 class UserRegisterForm(UserCreationForm):
     email = forms.EmailField()
+    # using EmailField() here adds some extra validation like making sure the email has an @ symbol
 
     class Meta:
         model = User
@@ -17,7 +18,7 @@ class UserUpdateForm(forms.ModelForm):
         model = User
         fields = ['username', 'email']
 
-class ProfileUpdateForm(forms.ModelForm):
+class ProfileUpdateForm(forms.ModelForm): # used in the profile view to handle private post logic
     trusted_users = forms.CharField(
         required=False,
         widget=forms.Textarea(attrs={"rows": 3}),

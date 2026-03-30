@@ -17,18 +17,18 @@
       {{ u_form|crispy }}
       <br>
       <h4>Profile Settings</h4>
-      {# posts_private checkbox #}
+      {# posts_private checkbox #} <!-- Users tick this if they want their posts to be private -->
       {{ p_form.posts_private|as_crispy_field }}
-
       {# trusted_users textarea #}
         <div class="mb-3">
-        {{ p_form.trusted_users|as_crispy_field }}
+        {{ p_form.trusted_users|as_crispy_field }} <!-- They can enter users they trust here -->
         </div>
     </fieldset>
 
     <button class="btn btn-outline-info" type="submit">Update</button>
     </form>
     <br>
-    <a href="{% url 'two_factor:profile' %}">Configure 2FA</a>
+    <a href="{% url 'two_factor:profile' %}">Configure 2FA</a> <!-- 'two_factor:profile' is the setup page for 2FA -->
+
 </div>
 {% endblock content %}

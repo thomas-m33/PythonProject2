@@ -24,4 +24,4 @@ urlpatterns = [
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
-    # this should be changed in a production setting so that media is fetched from your server
+    # this should be changed in a production setting so that media is fetched from a server

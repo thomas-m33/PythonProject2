@@ -10,6 +10,7 @@ logger = logging.getLogger(__name__)
 @receiver(user_logged_in)
 def log_login(sender, request, user, **kwargs):
     logger.info("Successful login: user=%s", user.username)
+    # %s is replaced with user.username
 
 @receiver(user_login_failed)
 def log_failed_login(sender, credentials, request, **kwargs):

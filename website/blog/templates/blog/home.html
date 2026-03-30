@@ -6,12 +6,29 @@
           <div class="media-body">
             <div class="article-metadata">
               <a class="mr-2" href="#">{{ post.author }}</a>
-              <small class="text-muted">{{ post.date_posted|date:"F d, Y" }}</small>
+              <small class="text-muted">
+                {{ post.date_posted|date:"F d, Y" }} |
+                Categories:
+                {% for c in post.categories.all %}
+                  <a href="?category={{ c.name }}">{{ c.name }}</a>{% if not forloop.last %}, {% endif %}
+                  <!-- the logic at the end adds a comma between categories, but only if it isn't on the last one -->
+                {% empty %}
+                  None <!-- Displays 'None' for the category if post has no categories -->
+                {% endfor %}
+                |
+                Tags:
+                {% for t in post.tags.all %}
+                  <a href="?tag={{ t.name }}">{{ t.name }}</a>{% if not forloop.last %}, {% endif %}
+                {% empty %}
+                  None
+                {% endfor %}
+              </small>
             </div>
+
             <h2><a class="article-title" href="{% url 'post-detail' post.id %}">{{ post.title }}</a></h2>
             <p class="article-content">{{ post.content }}</p>
+
           </div>
         </article>
     {% endfor %}
 {% endblock content %}
-
